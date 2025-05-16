@@ -4,8 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@stripe/react-stripe-js": "^3.7.0",
-    "@stripe/stripe-js": "^7.3.0",
     "axios": "^1.4.0",
     "date-fns": "^4.1.0",
     "framer-motion": "^12.7.4",
